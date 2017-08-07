@@ -17,6 +17,7 @@
 		EF332C3D1F32B0CA00962FB0 /* youmengUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF332C3C1F32B0CA00962FB0 /* youmengUITests.m */; };
 		EF332C4D1F32ED6700962FB0 /* libUMessage_Sdk_1.5.0a.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EF332C4B1F32ED6700962FB0 /* libUMessage_Sdk_1.5.0a.a */; };
 		EF332C501F32F2BD00962FB0 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF332C4F1F32F2BD00962FB0 /* UserNotifications.framework */; };
+		EF52EDB11F3844C2001FC384 /* ceshiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF52EDB01F3844C2001FC384 /* ceshiViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		EF332C4C1F32ED6700962FB0 /* UMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UMessage.h; sourceTree = "<group>"; };
 		EF332C4F1F32F2BD00962FB0 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		EF332C511F32F2D400962FB0 /* youmeng.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = youmeng.entitlements; sourceTree = "<group>"; };
+		EF52EDAF1F3844C2001FC384 /* ceshiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ceshiViewController.h; sourceTree = "<group>"; };
+		EF52EDB01F3844C2001FC384 /* ceshiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ceshiViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				EF332C4A1F32ED6700962FB0 /* UMessage_Sdk_1.5.0a */,
 				EF332C1A1F32B0C900962FB0 /* AppDelegate.h */,
 				EF332C1B1F32B0C900962FB0 /* AppDelegate.m */,
+				EF52EDAF1F3844C2001FC384 /* ceshiViewController.h */,
+				EF52EDB01F3844C2001FC384 /* ceshiViewController.m */,
 				EF332C1D1F32B0C900962FB0 /* ViewController.h */,
 				EF332C1E1F32B0C900962FB0 /* ViewController.m */,
 				EF332C201F32B0C900962FB0 /* Main.storyboard */,
@@ -310,6 +315,7 @@
 				EF332C1F1F32B0C900962FB0 /* ViewController.m in Sources */,
 				EF332C1C1F32B0C900962FB0 /* AppDelegate.m in Sources */,
 				EF332C191F32B0C900962FB0 /* main.m in Sources */,
+				EF52EDB11F3844C2001FC384 /* ceshiViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -560,6 +566,7 @@
 				EF332C431F32B0CA00962FB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF332C441F32B0CA00962FB0 /* Build configuration list for PBXNativeTarget "youmengTests" */ = {
 			isa = XCConfigurationList;
@@ -568,6 +575,7 @@
 				EF332C461F32B0CA00962FB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF332C471F32B0CA00962FB0 /* Build configuration list for PBXNativeTarget "youmengUITests" */ = {
 			isa = XCConfigurationList;
@@ -576,6 +584,7 @@
 				EF332C491F32B0CA00962FB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
