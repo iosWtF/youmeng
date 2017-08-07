@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9BBFF2161F3866E700411F00 /* leeTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBFF2151F3866E700411F00 /* leeTestViewController.m */; };
 		EF332C191F32B0C900962FB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EF332C181F32B0C900962FB0 /* main.m */; };
 		EF332C1C1F32B0C900962FB0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EF332C1B1F32B0C900962FB0 /* AppDelegate.m */; };
 		EF332C1F1F32B0C900962FB0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF332C1E1F32B0C900962FB0 /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9BBFF2141F3866E700411F00 /* leeTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = leeTestViewController.h; sourceTree = "<group>"; };
+		9BBFF2151F3866E700411F00 /* leeTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = leeTestViewController.m; sourceTree = "<group>"; };
 		EF332C141F32B0C900962FB0 /* youmeng.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = youmeng.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF332C181F32B0C900962FB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EF332C1A1F32B0C900962FB0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -121,6 +124,8 @@
 				EF52EDB01F3844C2001FC384 /* ceshiViewController.m */,
 				EF332C1D1F32B0C900962FB0 /* ViewController.h */,
 				EF332C1E1F32B0C900962FB0 /* ViewController.m */,
+				9BBFF2141F3866E700411F00 /* leeTestViewController.h */,
+				9BBFF2151F3866E700411F00 /* leeTestViewController.m */,
 				EF332C201F32B0C900962FB0 /* Main.storyboard */,
 				EF332C231F32B0C900962FB0 /* Assets.xcassets */,
 				EF332C251F32B0C900962FB0 /* LaunchScreen.storyboard */,
@@ -314,6 +319,7 @@
 			files = (
 				EF332C1F1F32B0C900962FB0 /* ViewController.m in Sources */,
 				EF332C1C1F32B0C900962FB0 /* AppDelegate.m in Sources */,
+				9BBFF2161F3866E700411F00 /* leeTestViewController.m in Sources */,
 				EF332C191F32B0C900962FB0 /* main.m in Sources */,
 				EF52EDB11F3844C2001FC384 /* ceshiViewController.m in Sources */,
 			);
