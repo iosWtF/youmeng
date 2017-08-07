@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"------%@",@"sdjagdjgsa爱上大家是的感觉卡萨躬擐甲胄补差价ZGIUcdgwuia");
-    
+    self.view.backgroundColor = [UIColor whiteColor];
      NSLog(@"------%@",@"sdjagdjgsa爱上大家是的感觉卡萨躬擐甲胄补差价ZGIUcdgwuia");
     NSLog(@"------%@",@"sdjagdjgsa爱上大家是的感觉卡萨躬擐甲胄补差价ZGIUcdgwuia");
 }
